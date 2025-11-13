@@ -1,0 +1,16 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Heroku/Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "QuyTall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
